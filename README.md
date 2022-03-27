@@ -117,10 +117,11 @@
 
 ## Leetcode Stats
 <div align="center"><img src="https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord" align="center" /></div> 
-<!-- <div align="center"> ![Leetcode Stats](https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord) </div> -->
-  
 
+  
 <br/>  
+
+## Want To know about me !! 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=54qanpg76bz8tvi1xgvn1n3lq&cover_image=true&theme=default" /></div>  
 
