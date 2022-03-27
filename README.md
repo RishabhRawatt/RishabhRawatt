@@ -115,8 +115,8 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+## Leetcode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord)
   
 
 <br/>  
