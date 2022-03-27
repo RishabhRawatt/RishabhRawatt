@@ -116,7 +116,8 @@
 <br/>  
 
 ## Leetcode Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord)
+<div align="center"><img src="https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord" align="center" /></div> 
+<!-- <div align="center"> ![Leetcode Stats](https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord) </div> -->
   
 
 <br/>  
