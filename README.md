@@ -118,6 +118,13 @@
 ## Leetcode Stats
 <div align="center"><img src="https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord" align="center" /></div> 
 
+<br/>
+
+## Contribution Stats
+<div align="center">
+<img src="https://github.com/rishabhrawatt/rishabhrawatt/blob/output/github-contribution-grid-snake.gif" align="center" />
+</div>
+
   
 <br/>  
 
@@ -149,3 +156,4 @@
      width="200" 
      height="200" />
   </div>
+
