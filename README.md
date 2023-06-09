@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://res.cloudinary.com/ddlollhtp/image/upload/v1652805917/greetings_noxf6k.gif)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -16,7 +16,6 @@
 - 📸passionate photographer 😶  
   
 
-- ⚡ Fun fact: how this is still working......  
   
 
 <br/>  
