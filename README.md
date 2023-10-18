@@ -105,11 +105,13 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
-## Github Stats  
+## COOL BADGES
+[![An image of @rishabhrawatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhrawatt)](https://holopin.io/@rishabhrawatt)
+
+## GITHUB STATS
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishabhRawatt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
