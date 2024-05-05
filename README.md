@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishabh , A Software Creative Enginner🎓</div>  
+### <div align="center">I'm Rishabh , A Software Enginner🎓</div>  
 </br>
   
 
