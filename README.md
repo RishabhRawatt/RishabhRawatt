@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishabh , A BTech student of Graphic Era Hill University 🎓</div>  
+### <div align="center">I'm Rishabh , A Software Creative Enginner🎓</div>  
 </br>
   
 
