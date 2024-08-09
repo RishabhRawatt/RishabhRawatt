@@ -7,13 +7,13 @@
 </br>
   
 
--  I’m currently learning Web development 👨‍💻  
+-  Web Developer 👨‍💻  
   
 
-- 🌱 I’m trying to Solve DSA Problems 🥴  
+- 🌱 yehhh i do Solve DSA Problems 🥴  
   
 
-- 📸passionate photographer 😶  
+- 📸 passionate photographer (well don't quote me on that) 😶  
   
 
   
