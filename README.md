@@ -82,7 +82,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/RishabhRawatt" target="_blank">
@@ -118,6 +117,14 @@
 
 ## Leetcode Stats
 <div align="center"><img src="https://leetcode.card.workers.dev/?username=rishabhrawatt&theme=nord" align="center" /></div> 
+
+<br/>
+
+
+## My Tech Journey
+<div align='center'>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b8d855b64402e052797c4c?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
 <br/>
 
