@@ -3,11 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Rishabh , A Software Enginner🎓</div>  
+### <div align="center">I'm Rishabh , A Software Engineer 🎓</div>  
 </br>
   
 
--  Web Developer 👨‍💻  
+- Not just a Web Developer 👨‍💻  
   
 
 - 🌱 yehhh i do Solve DSA Problems 🥴  
